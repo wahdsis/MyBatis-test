@@ -1,4 +1,4 @@
-##配置pom.xml文件
+## 配置pom.xml文件
 ```
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
