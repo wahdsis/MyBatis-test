@@ -56,5 +56,6 @@ version:依赖版本
 ![install_dependency2.png](https://upload-images.jianshu.io/upload_images/29061688-b77f7ef2185915a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![install_dependency3.png](https://upload-images.jianshu.io/upload_images/29061688-00a4eb4c0f8ea099.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![](image/07d8a32a700afadf6e65a03b65efd23.jpg)
 
 
